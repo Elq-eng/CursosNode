@@ -1,0 +1,197 @@
+{"level":"info","message":"Hello"}
+{"level":"info","message":"Hello"}
+{"level":"info","message":"\u001b[0mGET /auth/login \u001b[36m304\u001b[0m 4.397 ms - -\u001b[0m\n"}
+{"level":"info","message":"Hello"}
+{"level":"info","message":"::1 - - [28/Jun/2022:16:50:48 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Jun/2022:22:10:09 +0000] \"GET /movies/1 HTTP/1.1\" 404 147 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"Hello"}
+{"level":"info","message":"::1 - - [28/Jun/2022:22:10:21 +0000] \"GET /auth/login HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [28/Jun/2022:22:10:27 +0000] \"GET /movies/1 HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Jun/2022:22:11:42 +0000] \"GET /movies/1 HTTP/1.1\" 200 15 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"::1 - - [28/Jun/2022:22:14:23 +0000] \"GET /movies/1 HTTP/1.1\" 200 15 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:02:59:05 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:00:45 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:03:01:53 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:56 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:58 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:58 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:58 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:59 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:59 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:59 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:02:59 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:03:00 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:03:00 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:03:00 +0000] \"GET /movies/1 HTTP/1.1\" 500 1309 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:03:26 +0000] \"GET /movies/1 HTTP/1.1\" 200 12520 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:03:03:44 +0000] \"GET /movies/1 HTTP/1.1\" 200 12520 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:03:12:41 +0000] \"GET /movie/573a1390f29313caabcd4135 HTTP/1.1\" 404 169 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:13:48 +0000] \"GET /movie/573a1390f29313caabcd4135 HTTP/1.1\" 404 169 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:14:38 +0000] \"GET /movie/573a1390f29313caabcd4135 HTTP/1.1\" 200 1026 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:15:00 +0000] \"GET /movie/573a1390f29313caabcd4135 HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:31:52 +0000] \"GET /movie/5 HTTP/1.1\" 400 11 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:53:21 +0000] \"GET /movie/5 HTTP/1.1\" 400 11 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:53:24 +0000] \"GET /m HTTP/1.1\" 500 1259 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:03:53:41 +0000] \"GET /m HTTP/1.1\" 404 9 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [29/Jun/2022:12:48:53 +0000] \"GET /m HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [29/Jun/2022:12:48:53 +0000] \"GET /favicon.ico HTTP/1.1\" 404 23 \"http://localhost:5000/m\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [29/Jun/2022:12:51:46 +0000] \"GET /m HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [29/Jun/2022:12:51:58 +0000] \"GET /movie/573a1390f29313caabcd4135 HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [29/Jun/2022:12:52:04 +0000] \"GET /movie/5 HTTP/1.1\" 400 25 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:49:22 +0000] \"POST /auth/signup HTTP/1.1\" 404 23 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:49:59 +0000] \"POST /auth/signup HTTP/1.1\" 404 23 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [29/Jun/2022:16:50:56 +0000] \"GET /movie/5 HTTP/1.1\" 400 25 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [29/Jun/2022:16:51:07 +0000] \"GET /auth/signup HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"\"email\" is required"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:57:57 +0000] \"POST /auth/signup HTTP/1.1\" 404 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"\"email\" must be a valid email"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:59:10 +0000] \"POST /auth/signup HTTP/1.1\" 404 45 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"\"password\" is required"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:59:20 +0000] \"POST /auth/signup HTTP/1.1\" 404 38 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"\"first_name\" is required"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2022:16:59:42 +0000] \"POST /auth/signup HTTP/1.1\" 404 40 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [01/Jul/2022:13:20:19 +0000] \"GET /auth/signup HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [01/Jul/2022:13:20:19 +0000] \"GET /favicon.ico HTTP/1.1\" 404 23 \"http://localhost:5000/auth/signup\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36\"\n"}
+{"level":"error","message":"\"first_name\" is required"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [01/Jul/2022:13:23:21 +0000] \"POST /auth/signup HTTP/1.1\" 404 40 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"Unexpected token } in JSON at position 27"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [01/Jul/2022:13:27:42 +0000] \"POST /auth/signup HTTP/1.1\" 400 55 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"\"email\" is required"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [01/Jul/2022:13:27:48 +0000] \"POST /auth/signup HTTP/1.1\" 400 35 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"level":"error","message":"this email is already in use"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [01/Jul/2022:13:37:26 +0000] \"POST /auth/signup HTTP/1.1\" 409 42 \"-\" \"Thunder Client (https://www.thunderclient.com)\"\n"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:40:46 +0000] \"GET /auth/signup HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:41:40 +0000] \"POST /auth/signup HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:42:06 +0000] \"POST /auth/signup HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:45:17 +0000] \"POST /auth/signup HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:45:32 +0000] \"POST /auth/signup HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:46:32 +0000] \"POST /auth/signup HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:49:00 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:49:16 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:49:22 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"email\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:52:19 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 35 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:14:53:14 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:00:35 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"level":"error","message":"\"password\" with value \"anas45\" fails to match the required pattern: /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$/"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:01:53 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 150 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"You password must be least 8 characters and contain at least one unppercase letter, one lowercase letter, one number and one special character"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:13:48 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 156 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"You password must be least 8 characters and contain at least one unppercase letter, one lowercase letter, one number and one special character"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:20:59 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 156 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"You password must be least 8 characters and contain at least one unppercase letter, one lowercase letter, one number and one special character"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:21:08 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 156 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:21:22 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:21:33 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:30:18 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:32:54 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"email\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:33:13 +0000] \"POST /auth/signup/ HTTP/1.1\" 400 35 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:15:34:25 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:16:01:00 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:16:01:37 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:16:02:16 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"level":"info","message":"::1 - - [01/Jul/2022:16:20:03 +0000] \"POST /auth/signup/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.firstproject.sffyn6b.mongodb.net","level":"error","syscall":"querySrv"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.firstproject.sffyn6b.mongodb.net","level":"error","syscall":"querySrv"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"code":"ETIMEOUT","hostname":"firstproject.sffyn6b.mongodb.net","level":"error","syscall":"queryTxt"}
+{"level":"error","message":"this email is already in use"}
+{"level":"info","message":"::1 - - [01/Jul/2022:18:29:47 +0000] \"POST /auth/signup/ HTTP/1.1\" 409 42 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:18:30:09 +0000] \"POST /auth/signup/ HTTP/1.1\" 201 48 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:19:20:28 +0000] \"POST /auth/signup/ HTTP/1.1\" 201 48 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:45:32 +0000] \"GET /auth/login HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:45:55 +0000] \"GET /auth/login HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"\"username\" is required"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:46:01 +0000] \"POST /auth/login HTTP/1.1\" 400 38 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:46:07 +0000] \"POST /auth/login HTTP/1.1\" 200 197 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:46:14 +0000] \"POST /auth/login HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Please enter valid username and password"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:46:32 +0000] \"POST /auth/login HTTP/1.1\" 404 54 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:46:42 +0000] \"POST /auth/login HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Please enter valid username and password"}
+{"level":"info","message":"::1 - - [01/Jul/2022:20:47:19 +0000] \"POST /auth/login HTTP/1.1\" 404 54 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Please enter valid username and password"}
+{"level":"info","message":"::1 - - [02/Jul/2022:03:26:16 +0000] \"POST /auth/login HTTP/1.1\" 404 54 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [02/Jul/2022:03:27:55 +0000] \"POST /auth/login HTTP/1.1\" 200 178 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Jul/2022:04:53:46 +0000] \"GET /movie/4 HTTP/1.1\" 400 25 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Jul/2022:04:53:46 +0000] \"GET /favicon.ico HTTP/1.1\" 404 23 \"http://localhost:5000/movie/4\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:54:14 +0000] \"POST /movie/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:54:27 +0000] \"POST /movie/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:54:49 +0000] \"POST /movie/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:54:56 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:57:18 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:57:44 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:58:44 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:04:58:46 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:00:18 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:00:19 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:00:20 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:00:20 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:01:38 +0000] \"POST /movies/4 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:03:34 +0000] \"GET /movies/4 HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:04:32 +0000] \"POST /auth/login HTTP/1.1\" 200 188 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:04:51 +0000] \"GET /movies/4 HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:06:46 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:07:49 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:08:08 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:09:42 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:09:43 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:10:16 +0000] \"POST /auth/login HTTP/1.1\" 200 188 \"-\" \"PostmanRuntime/7.29.0\"\n"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../private.key'"}
+{"level":"info","message":"::1 - - [02/Jul/2022:05:10:42 +0000] \"GET /movies/4 HTTP/1.1\" 500 1081 \"-\" \"PostmanRuntime/7.29.0\"\n"}
