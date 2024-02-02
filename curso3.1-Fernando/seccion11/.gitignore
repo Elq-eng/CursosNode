@@ -8,3 +8,8 @@ logs/
 
 
 .env
+
+mongo/
+
+
+postgres/
